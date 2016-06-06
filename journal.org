@@ -12,9 +12,9 @@
   
 * Dictée
 ** Dictation
-   Navigateur internet [[apt://chromium-browser][chromium]]
-   [[https://dictation.io/]]
-   Fichier > Créer un racourci d'application
+   - Navigateur internet [[apt://chromium-browser][chromium]]
+   - [[https://dictation.io/]]
+   - Fichier > Créer un racourci d'application
 
 * Correcteur Gramatical
 ** Grammalecte
