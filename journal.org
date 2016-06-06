@@ -4,7 +4,9 @@
 
 * Synthèse vocale libreoffice
 ** svoxpico
-   [[apt://libttspico-utils][libttspico-util]]
+   [[apt://libttspico-utils][libttspico-utils]]
+** mbrola
+   [[apt://mbrola-fr4][mbrola]]
 ** python3-espeak
    [[apt://python3-espeak][python3-espeak]]
 ** Read Text
